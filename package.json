@@ -1,0 +1,19 @@
+{
+  "name": "ht-creator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bin/app.js",
+  "preferGlobal": true,
+  "bin": {
+    "ht-creator": "bin/app.js"
+  },
+  "scripts": {
+    "start": "node bin/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0"    
+  }
+}
