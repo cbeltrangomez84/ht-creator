@@ -11,7 +11,7 @@
     "start": "node bin/app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Carlos Andrés Beltrán Gómez",
   "license": "ISC",
   "dependencies": {
     "chalk": "^4.1.0"    
